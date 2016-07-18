@@ -1,0 +1,2 @@
+c:\users\v-alywil\documents\visual studio 2015\Projects\HarryPotterWandShop\HarryPotterWandShop\bin\Debug\HarryPotterWandShop.exe.config
+C:\Users\v-alywil\Desktop\Repos\WandShop\HarryPotterWandShop\HarryPotterWandShop\bin\Debug\HarryPotterWandShop.exe.config
